@@ -13,13 +13,6 @@
 ![image](https://github.com/Qiuuwpg/PythonMVC/assets/91887579/ab111a1d-29b7-4946-adbd-26cbf5cec211)
 
 
-![image](https://github.com/Qiuuwpg/PythonMVC/assets/91887579/80714911-7120-4b67-b8f8-3833f14208b1)
-
-![image](https://github.com/Qiuuwpg/PythonMVC/assets/91887579/e422e483-7dec-4e45-acf3-48a681a783e8)
-
-
-![image](https://github.com/Qiuuwpg/PythonMVC/assets/91887579/79f7f61d-590e-4dda-9b39-756568321807)
-
 
 
 
