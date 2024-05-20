@@ -10,8 +10,6 @@
 ![image](https://github.com/Qiuuwpg/PythonMVC/assets/91887579/d26dbd93-a72d-49af-9d82-746126d8d90a)
 
 
-![image](https://github.com/Qiuuwpg/PythonMVC/assets/91887579/ab111a1d-29b7-4946-adbd-26cbf5cec211)
-
 
 
 
